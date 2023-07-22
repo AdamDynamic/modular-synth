@@ -1,0 +1,28 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Synthesizer Build part-24 ADSR with 7555_V1.PrjPcb]
+   Generated File[Synthesizer Build part-24 ADSR with 7555_TC_V1.GTO]
+   Generated File[Synthesizer Build part-24 ADSR with 7555_TC_V1.GTS]
+   Generated File[Synthesizer Build part-24 ADSR with 7555_TC_V1.GTL]
+   Generated File[Synthesizer Build part-24 ADSR with 7555_TC_V1.GBL]
+   Generated File[Synthesizer Build part-24 ADSR with 7555_TC_V1.GBS]
+   Generated File[Synthesizer Build part-24 ADSR with 7555_TC_V1.GBO]
+   Generated File[Synthesizer Build part-24 ADSR with 7555_TC_V1.GM1]
+   Generated File[Synthesizer Build part-24 ADSR with 7555_TC_V1.GM3]
+   Generated File[Synthesizer Build part-24 ADSR with 7555_TC_V1.GM13]
+   Generated File[Synthesizer Build part-24 ADSR with 7555_TC_V1.GM15]
+   Generated File[Synthesizer Build part-24 ADSR with 7555_TC_V1.GM16]
+   Generated File[Synthesizer Build part-24 ADSR with 7555_TC_V1.GKO]
+   Generated File[Synthesizer Build part-24 ADSR with 7555_TC_V1.GPT]
+   Generated File[Synthesizer Build part-24 ADSR with 7555_TC_V1.GPB]
+   Generated File[Synthesizer Build part-24 ADSR with 7555_TC_V1.GD1]
+   Generated File[Synthesizer Build part-24 ADSR with 7555_TC_V1.GG1]
+   Generated File[Synthesizer Build part-24 ADSR with 7555_TC_V1.RUL]
+   Generated File[Synthesizer Build part-24 ADSR with 7555_TC_V1.EXTREP]
+   Generated File[Synthesizer Build part-24 ADSR with 7555_TC_V1.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 10:26:28 AM On 9/15/2022

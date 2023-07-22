@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Stomp adapter")(type Legacy)(uri "${KIPRJMOD}/Stomp adapter.lib")(options "")(descr ""))
+)

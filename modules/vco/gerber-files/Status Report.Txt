@@ -1,0 +1,29 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Rev with streo jack.PrjPcb]
+   Generated File[Rev with streo jack.GTO]
+   Generated File[Rev with streo jack.GTS]
+   Generated File[Rev with streo jack.GTL]
+   Generated File[Rev with streo jack.GBL]
+   Generated File[Rev with streo jack.GBS]
+   Generated File[Rev with streo jack.GBP]
+   Generated File[Rev with streo jack.GBO]
+   Generated File[Rev with streo jack.GM1]
+   Generated File[Rev with streo jack.GM3]
+   Generated File[Rev with streo jack.GM13]
+   Generated File[Rev with streo jack.GM15]
+   Generated File[Rev with streo jack.GM16]
+   Generated File[Rev with streo jack.GKO]
+   Generated File[Rev with streo jack.GPT]
+   Generated File[Rev with streo jack.GPB]
+   Generated File[Rev with streo jack.GD1]
+   Generated File[Rev with streo jack.GG1]
+   Generated File[Rev with streo jack.RUL]
+   Generated File[Rev with streo jack.EXTREP]
+   Generated File[Rev with streo jack.REP]
+
+
+Files Generated   : 20
+Documents Printed : 0
+
+Finished Output Generation At 8:02:05 PM On 9/4/2022

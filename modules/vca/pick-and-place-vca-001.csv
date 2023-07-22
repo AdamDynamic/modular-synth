@@ -1,0 +1,62 @@
+Altium Designer Pick and Place Locations
+C:\Users\ASUS\Desktop\Adam Project\New modification work\vca-design-and-gerber-files-v01\01 - DESIGN FILES\Project Outputs for AdamDynamic VCA-001\Pick Place for AdamDynamic VCA-001.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       27/09/22
+Time:       18:37
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation"
+"AUDIO_OUT","120.2737","35.1854","BottomLayer","180"
+"AUDIO_IN","120.2737","60.5854","BottomLayer","180"
+"ADSR_IN","120.2737","9.7853","BottomLayer","90"
+"INIT LEVEL","80.0100","61.5950","TopLayer","180"
+"R2","20.3200","38.1000","TopLayer","90"
+"R1","17.1450","38.1000","TopLayer","90"
+"C1","13.9690","28.5760","TopLayer","180"
+"C2","21.2250","28.5750","TopLayer","180"
+"Audio Level","66.9395","3.3781","BottomLayer","180"
+"ADSR Level","82.8145","3.3781","BottomLayer","180"
+"Gain","98.4864","3.3781","BottomLayer","180"
+"U1","45.7200","39.3700","TopLayer","270"
+"U2","85.0900","40.6400","TopLayer","270"
+"R25","37.4650","25.4000","TopLayer","90"
+"R24","41.2750","25.4000","TopLayer","270"
+"R23","59.6900","27.9400","TopLayer","360"
+"R22","98.4250","43.8150","TopLayer","180"
+"R21","98.4250","40.6400","TopLayer","180"
+"R19","76.8350","37.4650","TopLayer","270"
+"R18","98.4250","34.2900","TopLayer","180"
+"R17","87.6300","48.2600","TopLayer","360"
+"R16","98.4250","37.4650","TopLayer","360"
+"R15","87.6300","51.4350","TopLayer","180"
+"R14","59.6900","43.8150","TopLayer","180"
+"R13","59.6900","40.6400","TopLayer","360"
+"R12","59.6900","34.2900","TopLayer","360"
+"R11","59.6900","31.1150","TopLayer","360"
+"R10","59.6900","37.4650","TopLayer","360"
+"R9","73.6600","37.4650","TopLayer","90"
+"R8","60.3250","24.1300","TopLayer","180"
+"R7","48.8950","25.4000","TopLayer","270"
+"R6","45.0850","25.4000","TopLayer","270"
+"R5","33.0200","41.2750","TopLayer","360"
+"R3","33.0200","38.1000","TopLayer","180"
+"Q4","31.7500","23.4950","TopLayer","180"
+"Q3","98.4250","48.2600","TopLayer","0"
+"Q2","74.2950","22.2250","TopLayer","360"
+"Q1","53.9520","19.6903","TopLayer","360"
+"LED","54.1535","3.3781","BottomLayer","180"
+"D1","24.7650","17.7800","TopLayer","90"
+"OFFSET NULL","61.5950","62.2300","TopLayer","360"
+"BALANCE","43.1800","61.5950","TopLayer","180"
+"POWER","5.0800","34.9250","TopLayer","270"
+"C3","63.1350","18.4150","TopLayer","180"
+"C5","85.0900","28.5750","TopLayer","180"
+"C6","85.0900","33.6550","TopLayer","180"
+"C7","97.7900","31.1150","TopLayer","360"
+"C8","20.3200","17.7800","TopLayer","270"
+"C9","15.8750","17.7800","TopLayer","270"

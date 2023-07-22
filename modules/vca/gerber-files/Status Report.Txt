@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [AdamDynamic VCA-001.PrjPcb]
+   Generated File[AdamDynamic VCA-001.TXT]
+   Generated File[AdamDynamic VCA-001.LDP]
+   Generated File[AdamDynamic VCA-001.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 6:33:55 PM On 9/27/2022

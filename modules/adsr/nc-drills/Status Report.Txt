@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Synthesizer Build part-24 ADSR with 7555_V1.PrjPcb]
+   Generated File[Synthesizer Build part-24 ADSR with 7555_TC_V1.TXT]
+   Generated File[Synthesizer Build part-24 ADSR with 7555_TC_V1.LDP]
+   Generated File[Synthesizer Build part-24 ADSR with 7555_TC_V1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:26:58 AM On 9/15/2022
